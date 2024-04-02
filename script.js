@@ -1,5 +1,4 @@
 // script.js
-
 alert('Welcome to Strathmore');
 document.addEventListener('DOMContentLoaded', function () {
     // DOMContentLoaded event ensures that the script runs after the HTML has been completely loaded
