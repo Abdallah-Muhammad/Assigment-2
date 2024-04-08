@@ -28,6 +28,7 @@ if(isset($_POST["submit"])){
     }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,6 +47,7 @@ if(isset($_POST["submit"])){
         <a href="about.php">About</a>
         <a href="courses.php">Courses</a>
         <a href="contacts.php">Contacts</a>
+        <a href="signin.php">Sign In</a>
     </div>
 
     <div class="content">
@@ -59,7 +61,7 @@ if(isset($_POST["submit"])){
             <br><label for="email">Email Address:</label>
             <input type="text" id="email" placeholder="Enter Email" name="email" required>
             
-            br><label for="password">Insert Password:</label>
+            <label for="password">Insert Password:</label>
             <input type="text" id="password" placeholder="Enter password" name="password" required>
             
             <br><label for="Coursename">Choose a Course:</label>

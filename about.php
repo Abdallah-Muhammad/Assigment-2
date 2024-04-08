@@ -14,8 +14,9 @@
         
             <a href="index.php">Home</a>
             <a href="courses.php">Courses</a>
-            <a href="registration.php">Registration</a>
             <a href="contacts.php">Contacts</a>
+            <a href="registration.php">Registration</a>
+            <a href="signin.php">Sign In</a>
         </div>
     
     <div class="content">

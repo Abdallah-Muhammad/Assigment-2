@@ -14,8 +14,9 @@
         <nav class="toplink">
             <a href="about.php">About</a>
             <a href="courses.php">Courses</a>
-            <a href="registration.php">Registration</a>
             <a href="contacts.php">Contacts</a>
+            <a href="registration.php">Registration</a>
+            <a href="signin.php">Sign In</a>
         </nav>
         <div class="row">
             <div class="content">
